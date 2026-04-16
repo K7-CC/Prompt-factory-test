@@ -1,0 +1,12 @@
+# Salesforce cache (do not commit)
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+
+**/lwc/jsconfig.json
+coverage/
+node_modules/
+.env
+.DS_Store
+Thumbs.db
